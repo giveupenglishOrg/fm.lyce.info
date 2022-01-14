@@ -1,0 +1,32 @@
+baseURL = 'https://fm.lyce.info/'
+title = 'The LYCE Digitization - FM'
+theme = 'blank'
+
+[Params]
+  mainSections = ['posts']
+  baseURL = 'https://fm.lyce.info/'
+  logo = 'https://fm.lyce.info/images/logo.jpg'
+  author = 'The LYCE Digitization'
+  email = 'hi@lyce.info'
+  podcastLanguage = 'zh-cn'
+  podcastGenerator = 'lyce.info'
+  itunesCategory1 = 'Society &amp; Culture'
+  itunesCategory2 = 'Personal Journals'
+  podcastLicense = 'CC-BY-SA'
+  podcastTitle = 'The LYCE Digitization'
+  podcastArt = 'https://fm.lyce.info/images/art.jpg'
+  podcastSubtitle = '一个致力于 LYCE 电子化的开源项目'
+  podcastSummary = '''
+  一个致力于 LYCE 电子化的开源项目。<br /><br /> 网址：<a href="https://lyce.info">lyce.info</a>
+  '''
+
+[outputFormats]
+  [outputFormats.rss]
+    baseName = 'rss'
+    mediaType = 'application/rss+xml'
+    isPlainText = true
+  [outputFormats.html]
+    isPlainText = true
+
+[outputs]
+  home = ['html', 'rss']

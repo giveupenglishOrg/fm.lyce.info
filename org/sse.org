@@ -1,0 +1,21 @@
+#+HUGO_BASE_DIR: ..
+#+TITLE: "特别拿手好戏卡"
+#+DATE: <2022-01-14 Fri 15:19>
+#+HUGO_CUSTOM_FRONT_MATTER: :subtitle 一句顶十句
+#+HUGO_CUSTOM_FRONT_MATTER: :description “一句顶十句” 的口语要素！
+#+HUGO_CUSTOM_FRONT_MATTER: :summary “一句顶十句” 的口语要素！
+#+HUGO_CUSTOM_FRONT_MATTER: :url /sse.html
+#+HUGO_CUSTOM_FRONT_MATTER: :duration 00:11:47
+#+HUGO_CUSTOM_FRONT_MATTER: :length 8728576
+#+HUGO_CUSTOM_FRONT_MATTER: :external_mp3 yes
+#+HUGO_CUSTOM_FRONT_MATTER: :mp3 https://sse.lyce.info/audio.mp3
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_TAGS: rss
+#+HUGO_CATEGORIES:
+#+HUGO_DRAFT: false
+
+563 个句子，其中 228 个是“一句顶十句” 的口语要素！
+
+这些都是英语口语和听力的精神，脱口而出，不是鬼佬胜似鬼佬！
+
+👉 https://sse.lyce.info
