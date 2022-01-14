@@ -1,4 +1,3 @@
-#+HUGO_BASE_DIR: ..
 #+TITLE: "特别拿手好戏卡"
 #+DATE: <2022-01-14 Fri 15:19>
 #+HUGO_CUSTOM_FRONT_MATTER: :subtitle 一句顶十句
