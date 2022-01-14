@@ -32,7 +32,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: cat content/posts/sse.md && hugo --minify && ls -l public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

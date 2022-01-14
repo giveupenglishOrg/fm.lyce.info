@@ -1,10 +1,11 @@
-baseURL = 'https://fm.lyce.info/'
+baseURL = 'https://fm.lyce.info'
 title = 'The LYCE Digitization - FM'
 theme = 'blank'
+uglyurls = true
 
 [Params]
   mainSections = ['posts']
-  baseURL = 'https://fm.lyce.info/'
+  baseURL = 'https://fm.lyce.info'
   logo = 'https://fm.lyce.info/images/logo.jpg'
   author = 'The LYCE Digitization'
   email = 'hi@lyce.info'
@@ -24,8 +25,6 @@ theme = 'blank'
   [outputFormats.rss]
     baseName = 'rss'
     mediaType = 'application/rss+xml'
-    isPlainText = true
-  [outputFormats.html]
     isPlainText = true
 
 [outputs]
