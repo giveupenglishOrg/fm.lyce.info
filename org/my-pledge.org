@@ -1,0 +1,18 @@
+#+TITLE: "My Pledge"
+#+DATE: <2022-02-03 Fri 15:19>
+#+HUGO_CUSTOM_FRONT_MATTER: :subtitle What's your story?
+#+HUGO_CUSTOM_FRONT_MATTER: :description Speaking English is a piece of cake.
+#+HUGO_CUSTOM_FRONT_MATTER: :summary Speaking English is a piece of cake.
+#+HUGO_CUSTOM_FRONT_MATTER: :url /my-pledge.html
+#+HUGO_CUSTOM_FRONT_MATTER: :duration 00:02:52
+#+HUGO_CUSTOM_FRONT_MATTER: :length 8728576
+#+HUGO_CUSTOM_FRONT_MATTER: :external_mp3 yes
+#+HUGO_CUSTOM_FRONT_MATTER: :mp3 https://bo1.lyce.info/recording/01_my_pledge.mp3
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_TAGS: rss
+#+HUGO_CATEGORIES:
+#+HUGO_DRAFT: false
+
+What's your story?
+
+👉 https://bo1.lyce.info
