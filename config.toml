@@ -6,7 +6,7 @@ uglyurls = true
 [Params]
   mainSections = ['posts']
   baseURL = 'https://fm.lyce.info'
-  logo = 'https://fm.lyce.info/images/logo.jpg'
+  logo = 'https://lyce.info/img/timeline/default.jpg'
   author = 'The LYCE Digitization'
   email = 'hi@lyce.info'
   podcastLanguage = 'zh-cn'
@@ -15,7 +15,7 @@ uglyurls = true
   itunesCategory2 = 'Personal Journals'
   podcastLicense = 'CC-BY-SA'
   podcastTitle = 'The LYCE Digitization'
-  podcastArt = 'https://fm.lyce.info/images/art.jpg'
+  podcastArt = 'https://lyce.info/img/timeline/1990_dream.jpg'
   podcastSubtitle = '一个致力于 LYCE 电子化的开源项目'
   podcastSummary = '''
   一个致力于 LYCE 电子化的开源项目。<br /><br /> 网址：<a href="https://lyce.info">lyce.info</a>
